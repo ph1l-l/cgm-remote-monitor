@@ -152,15 +152,15 @@ a, a:visited, a:link {
 }
 
 .urgent .bgButton {
-  color: red;
+  color: #BF0000;
 }
 
 .warning .bgButton {
-  color: yellow;
+  color: #F1A20E;
 }
 
 .inrange .bgButton {
-  color: #4cff00;
+  color: #0087FF;
 }
 
 .bgStatus .bgSpan {
